@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jcodec-javase-0.2.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/off01/main/resources/lib/jcodec-javase-0.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

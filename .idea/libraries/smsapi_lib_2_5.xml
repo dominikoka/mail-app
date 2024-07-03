@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="smsapi-lib-2.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/untitled/src/main/resources/lib/smsapi-lib-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
